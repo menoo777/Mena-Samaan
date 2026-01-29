@@ -18,10 +18,27 @@
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([YOUR_FACEBOOK_LINK](https://www.facebook.com/profile.php?id=61578534597536))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/mina-samaan-481480336/))
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](menasamaannachedmkary@gmail.com)
+<h3>📬 Where to Find Me</h3>
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mina-samaan-481480336/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61578534597536" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="mailto:menasamaannachedmkary@gemil.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<hr/>
 
 ---
 
