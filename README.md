@@ -1,10 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm **Mina El-Makary**!  
-💻 A passionate **Computer Science student at Assiut University** with a strong interest in software development and problem-solving.
+👋 Hi, I'm Mina Samaan Nashed !  
+💻 A passionate Computer Science student at Assiut University with a strong interest in software development and problem-solving.
+01278226923
 
 🚀 I'm currently focusing on:
-- Full Stack Development with **.NET**
-- **C# & OOP** fundamentals and advanced concepts
+- Full Stack Development with .NET
+- C# & OOP fundamentals and advanced concepts
 - SQL & database design
 - Clean code principles & best practices
 - Building real-world projects and improving daily
